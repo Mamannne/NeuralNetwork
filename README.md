@@ -9,7 +9,7 @@ This repository contains a project where I built and trained a custom neural net
 The goal of this project was to develop a neural network from scratch to accurately predict digits (0–9) from the MNIST dataset. The dataset consists of **42,00 grayscale images** (in the training set) of handwritten digits, each sized **28x28 pixels**.  
 
 **Key Highlights of the Project**:  
-- Built a **custom neural network** model.  
+- Built a **custom neural network** model from scratch.  
 - Achieved digit classification with **high accuracy** on test data.  
 - Implemented training, evaluation, and visualization workflows.  
 
@@ -22,7 +22,7 @@ The goal of this project was to develop a neural network from scratch to accurat
     - NumPy
     - Pandas (optional, for data management) 
     - Leveraged libraries like **tqdm** for progress visualization during training.  
-    - Used **scipy.special** only for the implementation of the logsumexp function.   
+    - Scipy.special only for the implementation of the logsumexp function.   
     - Matplotlib (for visualization)
     - Json to store the model easily
      
