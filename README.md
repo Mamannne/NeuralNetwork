@@ -35,6 +35,7 @@ The goal of this project was to develop a neural network from scratch to accurat
 ├── dataset/                # MNIST dataset (if locally stored)
 ├── train.py                # Training script
 ├── README.md               # This file
+├── save.json               # Used to save the model after the training (and avoid using other libraries)
 └── main.py                 # Used to test the model visually
 ````
 ---
