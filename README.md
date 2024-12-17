@@ -6,7 +6,7 @@ This repository contains a project where I built and trained a custom neural net
 
 ## 📋 **Project Overview**
 
-The goal of this project was to develop a neural network from scratch to accurately predict digits (0–9) from the MNIST dataset. The dataset consists of **42,00 grayscale images** (in the training set) of handwritten digits, each sized **28x28 pixels**.  
+The goal of this project was to develop a neural network from scratch to accurately predict digits (0–9) from the MNIST dataset. The dataset consists of **4,200 grayscale images** (in the training set) of handwritten digits, each sized **28x28 pixels**.  
 
 **Key Highlights of the Project**:  
 - Built a **custom neural network** model from scratch.  
